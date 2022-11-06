@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data analyst and Data scientist 📊
 - 🌱 I’m currently learning Data science in Platzi
 - 💞️ I’m looking to collaborate on Data and Python projects
-- 🏫 My web page and portfolio JorgeAlvarezOre.github.io
-- 📫 Contact me by email winninglero@gmail.com, Twitter https://twitter.com/JorgeAl61506773 or LinkeIn (Spanish) www.linkedin.com/in/jorgealvarezore
+- 🏫 My web page and portfolio [JorgeAlvarezOre.github.io](https://jorgealvarezore.github.io)
+- 📫 Contact me by email [winninglero@gmail.com](mailto:winninglero@gmail.com), [Twitter](https://twitter.com/JorgeAl61506773) or [LinkedIn (Spanish)](https://www.linkedin.com/in/jorgealvarezore)
 
 
 <!---
