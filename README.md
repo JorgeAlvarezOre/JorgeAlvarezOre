@@ -13,14 +13,14 @@
 
 ## My projects
 
-- [Financial Data Extraction Tool (OpenAI API)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/OpenAI%20Financial%20Data%20Extraction)
-- [Question-and-answer system in a custom database (OpenAI API + SQL)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/OpenAI%20Functions%20Own%20Data)
-- [Pizza sales report (SQL + Power BI)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/SQL__Power_BI)
-- [Phytogeographic image recognizer (TensorFlow)](https://github.com/JorgeAlvarezOre/Data_projects/blob/main/Phytogeographic_classification_model_v2.ipynb)
-- [Machine Learning Operations (MLOps)](https://github.com/JorgeAlvarezOre/PI1_ML_OPS)
-- [Data analysis of road accidents in the city of Buenos Aires - Argentina (Data Analyst)](https://github.com/JorgeAlvarezOre/PI2_DA)
-- [Reviews and recommendations in Yelp and Google Maps databases (Data science)](https://github.com/SaulZambranoMeza/Proyecto-NOVA)
-- [Six mini applications in C# (Port from Python to C#)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/Six_mini_applications_C_Sharp)
+- Financial Data Extraction Tool - OpenAI API [(Enlace)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/OpenAI%20Financial%20Data%20Extraction)
+- Question-and-answer system in a custom database - OpenAI API + SQL [(Enlace)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/OpenAI%20Functions%20Own%20Data)
+- Pizza sales report - SQL + Power BI [(Enlace)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/SQL__Power_BI)
+- Phytogeographic image recognizer - TensorFlow [(Enlace)](https://github.com/JorgeAlvarezOre/Data_projects/blob/main/Phytogeographic_classification_model_v2.ipynb)
+- Machine Learning Operations - MLOps [(Enlace)](https://github.com/JorgeAlvarezOre/PI1_ML_OPS)
+- Data analysis of road accidents in the city of Buenos Aires - Argentina - Data Analyst [(Enlace)](https://github.com/JorgeAlvarezOre/PI2_DA)
+- Reviews and recommendations in Yelp and Google Maps databases - Data science [(Enlace)](https://github.com/SaulZambranoMeza/Proyecto-NOVA)
+- Six mini applications in C# - Port from Python to C# [(Enlace)](https://github.com/JorgeAlvarezOre/Data_projects/tree/main/Six_mini_applications_C_Sharp)
 
 ## Connect
 
